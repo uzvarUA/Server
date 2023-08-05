@@ -1,6 +1,6 @@
 1.Для начала вам нужно скачать 2 приложения:
-Termux:https://play.google.com/store/apps/details?id=com.termux
-AnLinux:https://play.google.com/store/apps/details?id=exa.lnx.a
+Termux: https://f-droid.org/ru/packages/com.termux/
+AnLinux: https://f-droid.org/uk/packages/exa.lnx.a/
 2.Открываем AnLinux.
 3.Нажимаем на Choose,теперь выбираем Kali или вы можете выбрать то что вам больше нравиться.
 4.Нажимаем на Copy и закрываем приложение.
